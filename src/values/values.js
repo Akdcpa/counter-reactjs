@@ -1,0 +1,26 @@
+export const data = [
+    {
+        id:0,
+        count:2,
+        name:"mobile",
+        show:true
+    },
+    {
+        id:1,
+        count:0,
+        name:"charger",
+        show:true
+    },
+    {
+        id:2,
+        count:2,
+        name:"headphone",
+        show:true
+    },
+    {
+        id:3,
+        count:0,
+        name:"battery",
+        show:true
+    },
+];
